@@ -3,10 +3,16 @@
 
 # PixelBot.app
 
+Welcome to the PixelBot! 🚀
 
-Es soll eine Seite mit Vue, Angular oder React erstellt werden, auf der Blog-Posts mit einem Editor erstellt werden können. Die Blog-Posts sollen dann aufgelistet und angezeit werden können. https://www.npmjs.com/package/json-server soll genutzt werden, um eine REST-API für das Speichern, Abrufen, Editieren und Löschen der Blog-Posts darzustellen. Ein Blog Post soll einen Autor, einen Inhalt, einen Titel und ein Post-Datum haben.
+Our Discord bot, launched in August 2023, is available to everyone for free and offers a wide range of features.
+We are revolutionizing the Discord experience with our module system. The diverse modules include a ticket system
+for smooth support interactions, a moderation system to effectively manage the server, a log system for comprehensive records,
+a welcome system to warmly welcome new members, and dynamic channels that adapt to needs.
+But that's not all - PixelBot also integrates webhooks for seamless communication and is in constant development.
 
-
+Thanks to the ease of customization, server administrators can configure PixelBot to their liking to get the most out of their
+Discord community. Take advantage of PixelBot's versatility and let it take your server experience to a new level!
 
 
 ## Socials
