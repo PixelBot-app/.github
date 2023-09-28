@@ -1,4 +1,4 @@
-![Logo](https://cdn.pixelbot.app/images/logo.png)
+![Logo](https://cdn.pixelbot.app/images/logo256x.png)
 
 
 # PixelBot.app
